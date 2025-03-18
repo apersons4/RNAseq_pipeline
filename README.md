@@ -1,8 +1,9 @@
 # 🧬 RNAseq Pipeline for C. elegans Stress Response
 
 ## 📌 Overview
-This project analyzes RNAseq data from _C. elegans_ to identify differential gene expression after **S. gordoni** infection.  
+This project analyzes RNAseq data from _C. elegans_ to identify differential gene expression but not the data.  
 It includes transcript quantification, differential expression analysis, and visualization.
+
 
 ---
 
